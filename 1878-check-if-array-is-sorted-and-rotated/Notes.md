@@ -1,1 +1,1 @@
-<h2>check-if-array-is-sorted-and-rotated Notes</h2><hr>[ Time taken: 8hrs 21m 43s ]
+<h2>check-if-array-is-sorted-and-rotated Notes</h2><hr>[ Time taken: 1d 1hr 8m 33s ]
